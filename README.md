@@ -3,5 +3,10 @@
 Lecture 4 – Program 1: Successfully added 💎:
 Average Age Calculator ✨ | Computes the class average after taking ages of 10 students.
 Lecture 4 – Program 2: Successfully added 💎:
-Circle Calculator ✨ | Computes diameter, circumference, and area from user-provided radius.</pre>
+Circle Calculator ✨ | Computes diameter, circumference, and area from user-provided radius.
+Lecture 5 – Program 1: Successfully added 💎:
+Sara vs Amara ✨ | Tests and displays whether Sara is older than Amara.
+Lecture 5 – Program 1: Successfully added 💎:
+Discount Calculator ✨ | Computes applicable discount based on purchase amount using conditional logic.
+</pre>
 
