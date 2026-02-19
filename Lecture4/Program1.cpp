@@ -1,3 +1,5 @@
+/* This program calculates the average age of a class of ten students after prompting 
+e user to enter the age of each student. */ 
 #include <iostream>
 using namespace std;
 
