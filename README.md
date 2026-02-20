@@ -19,4 +19,15 @@
 – Program 2: Even Series Calculator ✨ 
    | Computes the sum of all even numbers in a range.
 – Program 3: Factorial Calculator ✨ 
-    | Computes the factorial of a given number.</pre>
+    | Computes the factorial of a given number.
+    
+💎Lecture 7 :
+– Program 1: Guess the Character Game ✨ 
+    | This program lets the user guess a character between a and z and gives five chances.
+– Program 2: Multiplication Table ✨ 
+    | Displays the table of a given integer up to 10.
+– Program 3: Square Series ✨ 
+    | Computes and displays the sum of squares from 1 up to a user-provided number.
+</pre>
+
+
