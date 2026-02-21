@@ -35,7 +35,7 @@
 – Program 2: Net Pay Calculator ✨
     | Computes final salary amount based on deduction rules.
 
-💎Lecture 8 :
+💎Lecture 9 :
 – Program 1: Power Calculator ✨ 
     | Uses raiseToPow function to determine exponent result.
 – Program 2: Ring Area Calculator ✨ 
