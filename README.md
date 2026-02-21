@@ -28,6 +28,15 @@
     | Displays the table of a given integer up to 10.
 – Program 3: Square Series ✨ 
     | Computes and displays the sum of squares from 1 up to a user-provided number.
-</pre>
+
+💎Lecture 8 :
+– Program 1: Grade Description ✨ 
+    | Displays a description based on the user’s grade.
+– Program 2: Net Pay Calculator ✨
+    | Computes final salary amount based on deduction rules.
+
+💎Lecture 8 :
+– Program 1:
+  </pre>
 
 
