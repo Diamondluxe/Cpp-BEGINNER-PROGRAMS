@@ -36,7 +36,12 @@
     | Computes final salary amount based on deduction rules.
 
 💎Lecture 8 :
-– Program 1:
+– Program 1: Power Calculator ✨ 
+    | Uses raiseToPow function to determine exponent result.
+– Program 2: Ring Area Calculator ✨ 
+    | Takes user input and calculates the area of a ring using a function.
+– Program 3: Even Check Program ✨ 
+    | Calls a function to check whether the given number is even or not.
   </pre>
 
 
