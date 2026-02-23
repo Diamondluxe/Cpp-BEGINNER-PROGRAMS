@@ -42,6 +42,22 @@
     | Takes user input and calculates the area of a ring using a function.
 – Program 3: Even Check Program ✨ 
     | Calls a function to check whether the given number is even or not.
+  
+  💎Lecture 10 : 
+– Program 1: Pass By Value Function ✨
+    | Shows how data is passed to a function without changing the original variable value in main.
+– Program 2: Reference Value Function ✨
+    | Shows how data is passed to functions to allow direct modification of data in main using refrence.
+
+💎Lecture 11 :
+– Program 1: Array Input Program ✨
+    | Stores values entered by the user in an array until -1 is entered.
+– Program 2: Array Square Sum ✨
+    | Stores numbers in an array and computes the sum of their squares.
+– Program 3: Number Finder in Array ✨
+    | Finds a number entered by the user within an array.
+    
+    
   </pre>
 
 

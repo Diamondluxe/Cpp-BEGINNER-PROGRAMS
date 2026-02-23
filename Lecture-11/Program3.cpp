@@ -1,4 +1,4 @@
-// This program is used to find a number from the array. 
+//This program is used to find a number from the array. 
 #include <iostream>
 using namespace std;
 int main()
@@ -10,16 +10,16 @@ int main()
     cin >> z;  //store the input from user in variable z
     int found=0;
 
-    for(i=0; i<100; i++)  //the loop continues until the user enters a positive integer or the array a is full (i<100)
+    for(i=0; i<100; i++)  //Intializing the array a with values from 0 to 99
     {
-       a[i]=i;  //store the value of i in the array a at index i, so the array a will contain the numbers from 0 to 99
+       a[i]=i;  
     }
 
-    for (i=0; i<100; i++)  //the loop continues until the user enters a positive integer or the array a is full (i<100)
+    for (i=0; i<100; i++)  //loop to search the number
     {
-        if(a[i]==z)  //if the value of a at index i is equal to z, then print the index i and break the loop
+        if(a[i]==z)  //if the value of a at index i is equal to z,
         {
-            found =1;  //set found to 1 to indicate that the number is found in the array a
+            found =1;  //set found to 1 and break the loop
             break;
         }
     }
@@ -32,4 +32,5 @@ int main()
     {
         cout<<"The number was not found."<<endl;
     }
+    return 0;
 }
