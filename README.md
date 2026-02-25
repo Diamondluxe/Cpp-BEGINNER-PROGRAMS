@@ -56,8 +56,11 @@
     | Stores numbers in an array and computes the sum of their squares.
 – Program 3: Number Finder in Array ✨
     | Finds a number entered by the user within an array.
-    
-    
+
+💎Project 1 and Project 2 are released, covering lecture 1-11.
+    -View Complete Projects Repository here ✨
+ https://github.com/Diamondluxe/Cpp-PROGRESSIVE-PROJECTS.git   
+
   </pre>
 
 
