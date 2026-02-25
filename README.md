@@ -58,8 +58,8 @@
     | Finds a number entered by the user within an array.
     
 💎Project 1 and Project 2 are released, covering lecture 1-11.
-    -View Complete Projects Repository here ✨
- <a href="https://github.com/Diamondluxe/Cpp-PROGRESSIVE-PROJECTS" title="Cpp-PROGRESSIVE-PROJECTS"></a>
+    -View Complete Projects Repository Click here ✨
+ <a href="https://github.com/Diamondluxe/Cpp-PROGRESSIVE-PROJECTS"> "Cpp-PROGRESSIVE-PROJECTS"</a>
 
  </pre>
 
