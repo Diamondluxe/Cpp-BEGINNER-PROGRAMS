@@ -59,7 +59,7 @@
 
 💎Project 1 and Project 2 are released, covering lecture 1-11.
     -View Complete Projects Repository here ✨
- https://github.com/Diamondluxe/Cpp-PROGRESSIVE-PROJECTS.git   
+ https://github.com/Diamondluxe/Cpp-PROGRESSIVE-PROJECTS
 
   </pre>
 
