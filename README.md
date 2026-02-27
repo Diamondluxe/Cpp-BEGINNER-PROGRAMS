@@ -56,11 +56,26 @@
     | Stores numbers in an array and computes the sum of their squares.
 – Program 3: Number Finder in Array ✨
     | Finds a number entered by the user within an array.
+
     
 💎Project 1 and Project 2 are released, covering lecture 4-11.
     -View Complete Projects Repository Click here ✨
          <a href="https://github.com/Diamondluxe/Cpp-PROGRESSIVE-PROJECTS">"Cpp-PROGRESSIVE-PROJECTS"</a>
 
+
+💎Lecture 12 :
+– Program 1: Array Comparison Program ✨
+    | Stores two arrays of five integers and checks if they match.
+– Program 2: Array Reference Behavior ✨
+    | Proves that arrays are modified directly when passed to a function.
+– Program 3: Matrix Input & Display ✨
+    | Stores user values in a 2×3 matrix and displays them in row-column format.
+ 
+💎Lecture 13 :
+– Program 1: Matrix Row Flip Program ✨
+    | Reads a matrix, displays it, and shows the matrix with reversed row order.
+– Program 2: Matrix Transpose Program ✨
+    | Reads a square matrix, displays it, and shows its transposed form.
  </pre>
 
 
