@@ -76,6 +76,15 @@
     | Reads a matrix, displays it, and shows the matrix with reversed row order.
 – Program 2: Matrix Transpose Program ✨
     | Reads a square matrix, displays it, and shows its transposed form.
+ 
+💎Lecture 14 :
+– Program 1: Bubble Sort Using Pointers ✨
+    | Sorts an array using bubble sort and swaps elements with pointers.
+– Program 2: Character Case Conversion ✨
+    | Converts all lowercase letters of a string into uppercase characters.
+ 
+ 
+ 
  </pre>
 
 
