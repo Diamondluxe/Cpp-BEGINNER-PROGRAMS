@@ -83,7 +83,7 @@
 – Program 2: Character Case Conversion ✨
     | Converts all lowercase letters of a string into uppercase characters.
  
-💎Lecture 14 :
+💎Lecture 15 :
 – Program 1: Pointer Increment Demo ✨
     | Prints a pointer’s memory address and shows its incremented value.
 – Program 2: Array Access with Pointers ✨
