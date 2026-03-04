@@ -83,7 +83,21 @@
 – Program 2: Character Case Conversion ✨
     | Converts all lowercase letters of a string into uppercase characters.
  
- 
+💎Lecture 14 :
+– Program 1: Pointer Increment Demo ✨
+    | Prints a pointer’s memory address and shows its incremented value.
+– Program 2: Array Access with Pointers ✨
+    | Shows how array elements can be accessed through indexing and pointer techniques.
+– Program 3: Pointer-Based Array Traversal ✨ 
+    | Iterates through an array using pointer increment.
+– Program 4: Pointer Arithmetic ✨
+    | Shows how pointers move using arithmetic operations.
+– Program 5: Pointer Difference ✨
+    | Shows how the difference between two pointers is calculated.
+– Program 6: Pointer Dereference Comparison ✨
+    | Demonstrates comparison of values using dereferenced pointers.
+– Program 7: Character Array Copy ✨
+    | Demonstrates copying characters from one array to another using pointer.
  
  </pre>
 
