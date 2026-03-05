@@ -10,7 +10,7 @@
 💎Lecture 5 :
 – Program 1: Sara vs Amara ✨ 
     | Tests and displays whether Sara is older than Amara.
-– Program 1: Discount Calculator ✨ |
+– Program 2: Discount Calculator ✨ |
      Computes applicable discount based on purchase amount using conditional logic.
 
 💎Lecture 6 :
@@ -99,6 +99,14 @@
 – Program 7: Character Array Copy ✨
     | Demonstrates copying characters from one array to another using pointer.
  
+💎Lecture 15 :
+– Program 1: 2D Array Pointer Behavior ✨
+    | Explores how a 2D array name and *array return memory addresses.
+– Program 2: Multi-Dimensional Array Manipulation ✨
+    | Shows how a multi-dimensional array is accessed using indexing and pointer techniques.
+
+
+
  </pre>
 
 
