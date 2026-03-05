@@ -99,7 +99,7 @@
 – Program 7: Character Array Copy ✨
     | Demonstrates copying characters from one array to another using pointer.
  
-💎Lecture 15 :
+💎Lecture 16 :
 – Program 1: 2D Array Pointer Behavior ✨
     | Explores how a 2D array name and *array return memory addresses.
 – Program 2: Multi-Dimensional Array Manipulation ✨
