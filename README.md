@@ -104,8 +104,8 @@
     | Explores how a 2D array name and *array return memory addresses.
 – Program 2: Multi-Dimensional Array Manipulation ✨
     | Shows how a multi-dimensional array is accessed using indexing and pointer techniques.
-
-
+– Program 3: Playing Cards Shuffle System ✨
+    | Simulates a 52-card deck, shuffles it randomly, and displays each card with its suit and face.
 
  </pre>
 
