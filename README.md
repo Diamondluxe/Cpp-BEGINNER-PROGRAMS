@@ -107,6 +107,20 @@
 – Program 3: Playing Cards Shuffle System ✨
     | Simulates a 52-card deck, shuffles it randomly, and displays each card with its suit and face.
 
+💎Lecture 17 :
+– Program 1: ASCII Code Table ✨
+    | Displays characters with their corresponding ASCII numeric values.
+– Program 2: Text Analysis using <ctype.h> ✨
+    | Uses <ctype.h> utilities to analyze and identify character types in a string. 💎
+– Program 3: ATOI Conversion Demo ✨
+    | Shows the use of atoi() to transform numeric strings into integers.
+– Program 4: String Copy Operations ✨
+    | Shows how strcpy() and strncpy() perform string copying operations.
+– Program 5: String Concatenation Demo ✨
+    | Shows how strcat() and strncat() append one string to another.
+– Program 6: String Processing Master Demo ✨
+    | Shows practical implementation of string manipulation functions from <string.h>.
+ 
  </pre>
 
 
