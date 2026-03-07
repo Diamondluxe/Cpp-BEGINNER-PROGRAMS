@@ -110,8 +110,8 @@
 💎Lecture 17 :
 – Program 1: ASCII Code Table ✨
     | Displays characters with their corresponding ASCII numeric values.
-– Program 2: Text Analysis using <ctype.h> ✨
-    | Uses <ctype.h> utilities to analyze and identify character types in a string. 💎
+– Program 2: Text Analysis using ctype.h ✨
+    | Uses ctype.h utilities to analyze and identify character types in a string. 💎
 – Program 3: ATOI Conversion Demo ✨
     | Shows the use of atoi() to transform numeric strings into integers.
 – Program 4: String Copy Operations ✨
@@ -119,7 +119,7 @@
 – Program 5: String Concatenation Demo ✨
     | Shows how strcat() and strncat() append one string to another.
 – Program 6: String Processing Master Demo ✨
-    | Shows practical implementation of string manipulation functions from <string.h>.
+    | Shows practical implementation of string manipulation functions from string.h.
  
  </pre>
 
