@@ -111,7 +111,7 @@
 – Program 1: ASCII Code Table ✨
     | Displays characters with their corresponding ASCII numeric values.
 – Program 2: Text Analysis using ctype.h ✨
-    | Uses ctype.h utilities to analyze and identify character types in a string. 💎
+    | Uses ctype.h utilities to analyze and identify character types in a string. 
 – Program 3: ATOI Conversion Demo ✨
     | Shows the use of atoi() to transform numeric strings into integers.
 – Program 4: String Copy Operations ✨
