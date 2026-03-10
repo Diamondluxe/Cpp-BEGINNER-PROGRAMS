@@ -121,6 +121,19 @@
 – Program 6: String Processing Master Demo ✨
     | Shows practical implementation of string manipulation functions from string.h.
  
+💎Lecture 18 :
+– Program 1: Employee Information Reader ✨
+    | Reads employee details from “myfile.txt” and displays using C++ file handling.
+– Program 2: File Message Writer ✨
+    | Writes the message “Diamond Luxe Welcomes You!” to “myfileOut.txt”.    
+– Program 3: Employee Salary Increment ✨
+    | Adds 2000 to each employee salary from “Employeein.txt” and saves results in “Employeeout.txt”.
+– Program 4: GetLine File Reader ✨
+    | Reads a text file line by line using getline() from "GetLineFile.txt".
+– Program 5: Employee Salary Calculator ✨
+    | Reads employee names and salaries, calculates totals, and saves them to a new file.
+ 
+ 
  </pre>
 
 
