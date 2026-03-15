@@ -132,6 +132,11 @@
     | Reads a text file line by line using getline() from "GetLineFile.txt".
 – Program 5: Employee Salary Calculator ✨
     | Reads employee names and salaries, calculates totals, and saves them to a new file.
+
+
+💎Project 3 is released, covering lecture 12-18.
+ -View Complete Projects Repository Click here ✨
+         <a href="https://github.com/Diamondluxe/Cpp-PROGRESSIVE-PROJECTS">"Cpp-PROGRESSIVE-PROJECTS"</a>
  
  
  </pre>
