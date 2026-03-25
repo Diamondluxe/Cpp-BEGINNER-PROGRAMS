@@ -162,7 +162,20 @@
     | Averages class stats and identifies the top GPA using a Student structure array.
 – Program 5: File-to-Struct Sync ✨
     | Reads data from a file, populates a Student structure, and saves the formatted record to a new file.
+– Program 6: Union Memory Auditor ✨
+    | Demonstrates how int and char share the same memory space in union.
 
+💎Lecture 21:
+– Program 1: Bitwise Masking Utility ✨
+    | Checks if the fourth bit of an input number is set (1) or clear (0) using the & (AND) operator.
+– Program 2: The Secret Key Tool ✨
+    | Encrypts and decrypts data strings by applying the bitwise ^ operator with a secret key.
+– Program 3: Bit-Shift Controller ✨
+    | Demonstrates how << doubles a number and >> halves it by sliding its bit-pattern.
+
+💎Lecture 21:
+– Revision: Cheat sheet for you ✨
+    | Easiest Cheat Sheet that covering all the lectures from 1 to 21.
 
  </pre>
 
