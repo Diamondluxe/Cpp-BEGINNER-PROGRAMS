@@ -139,6 +139,31 @@
          <a href="https://github.com/Diamondluxe/Cpp-PROGRESSIVE-PROJECTS">"Cpp-PROGRESSIVE-PROJECTS"</a>
  
  
+💎Lecture 19 :
+– Program 1: Data Stream Writer ✨
+    | Writes mixed-type data (integer, float, and char) directly into a file called "test".
+– Program 2: Data Stream Reader ✨
+    | Extracts stored variables (int, float, and char) from the file "test".
+– Program 3: The System Duplicator ✨
+    | Copies the entire content of "thisFile" into a secondary "thatFile".
+– Program 4: File Control Guide ✨
+    | Opens "MyFile.txt", jumps with seekg(), reads with get(), and finishes with close().
+– Program 5: The Stream Tracker ✨
+    | Uses seekg() and seekp() to jump, while tellg() and tellp() track the current stream address.
+
+💎Lecture 20 :
+– Program 1: Struct Initializer ✨
+    | Defines a structure and assigns starting values to its members.
+– Program 2: Pointer-to-Struct Access ✨
+    | Navigates a structure's memory by its address and accessing members through the -> operator.
+– Program 3: The RAM Footprint ✨
+    | Calculates the total byte-size of a custom structure using the sizeof() operator
+– Program 4: The Academic Tracker ✨
+    | Averages class stats and identifies the top GPA using a Student structure array.
+– Program 5: File-to-Struct Sync ✨
+    | Reads data from a file, populates a Student structure, and saves the formatted record to a new file.
+
+
  </pre>
 
 
