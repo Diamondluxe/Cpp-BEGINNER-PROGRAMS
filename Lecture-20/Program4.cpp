@@ -8,12 +8,12 @@ struct Student
         char name[20];
         char course[30];
         int age;
-        int gpa;
+        float gpa;
     };
 int main(){
     int no;
-    int totalage, averageage, index;
-    float totalgpa, averagegpa, maxgpa;
+    int totalage, index;
+    float totalgpa, averagegpa, maxgpa, averageage;
 
     cout<<"Enter total no of Student: ";
     cin>>no;
@@ -32,6 +32,8 @@ int main(){
         cin >> s[i].gpa ; 
     }
 
+    totalage=0;
+    totalgpa=0;
     maxgpa=0;
     for(int j=0;j<no;j++)
     {
