@@ -173,9 +173,98 @@
 – Program 3: Bit-Shift Controller ✨
     | Demonstrates how << doubles a number and >> halves it by sliding its bit-pattern.
 
-💎Lecture 21:
+💎Lecture 22:
 – Revision: Cheat sheet for you ✨
     | Easiest Cheat Sheet that covering all the lectures from 1 to 21.
+
+💎Lecture 23:
+– Program 1: The Macro Creator ✨
+    | Allows you to define short, reusable logic fragments or "functions" that execute faster than regular functions.
+– Program 2: The Conditional Executor ✨
+    | Uses #ifdef logic to decide which parts of the program should run, saving time and memory during testing.
+– Program 3: The Code Shortcut ✨
+    | Replaces a long piece of code with a single short word to save typing time.
+– Program 4: The Math Shortcut ✨
+    | Keeps the main() function clean by hiding the mathematical steps inside a simple #define label.
+
+💎Lecture 24:
+– Program 1: The Memory Saver ✨
+    | Uses the new operator to store the age of each student in the "Heap" section of the computer's memory.
+– Program 2: The Leak Protector ✨
+    | Prevents "Memory Leaks" by clearing out the used space, keeping the computer's performance fast and smooth.
+– Program 3: The Structure Scaler ✨
+    | Creates an array of custom structures (like Employee) exactly as large as the user inputs.
+
+💎Lecture 25:
+– Program 1: The Optional Caller ✨
+    | Allows you to call the same function with different numbers of arguments without writing multiple versions.
+– Program 2: The Initialization Guard ✨
+    | Keeps a variable "alive" only within the specific { } block where it is used, saving memory.
+– Program 3: The Fast-Track Duo ✨
+    | Macros are simple "copy-pasters," while Inline functions are "smart-injectors" that check for data types.
+– Program 4: The Multi-Tasker Name ✨
+    | Uses the exact same function name to handle and print int, float, or string without any confusion.
+– Program 5: The Copy Master ✨
+    | Replaces two separate function names (strcpy and strncpy) with a single, easy-to-remember copy name.
+
+💎Lecture 26:
+– Program 1: The Calendar Blueprint ✨
+    | Creates a custom Date class that neatly bundles day, month, and year into one single object.
+– Program 2: The Auto-Initializer ✨
+    | Automatically sets the day, month, and year as soon as a Date object is created.
+
+💎Lecture 27:
+– Program 1: The Birth Tracker ✨
+    | Automatically triggers a specific message the moment a Date object is "born" (created) in the memory.
+
+💎Lecture 28:
+– Program 1: The Missing Cleanup ✨
+    | Fails to call the delete operator, which is the only way to manually tell the system that the memory is free.
+– Program 2: The Space Returner ✨
+    | Uses the delete operator to manually signal the system that the memory is no longer needed.
+
+💎Lecture 29:
+– Program 1: The Trusted Guest ✨
+    | Uses the friend keyword inside the class to "grant permission" to an outside function
+– Program 2: The Common Friend ✨
+    | Allows you to perform operations using private variables from both Class A and Class B.
+– Program 3: The Private Calculator ✨
+    | Uses friend functions to pick up secret data from constructors and perform math without making the data public.
+
+
+💎Project 4 is released, covering lecture 19-29.
+ -View Complete Projects Repository Click here ✨
+         <a href="https://github.com/Diamondluxe/Cpp-PROGRESSIVE-PROJECTS">"Cpp-PROGRESSIVE-PROJECTS"</a>
+
+
+💎Lecture 30:
+– Program 1: The Memory Access Trio ✨
+    | Use & to get the address, * to create a pointer to that address, and -> as a shortcut to reach members inside an object
+– Program 2: The Original Variable Return ✨
+    | Instead of returning a temporary copy, the function gives you the actual memory location of the variable.
+
+💎Lecture 31:
+– Program 1: The Plus Overloader ✨
+    | Shows how to use the standard + sign to add two class objects together instead of just numbers.
+– Program 2: String Class ✨
+    | Shows how to use the + sign operator to link two string objects together in class.
+
+💎Lecture 32:
+– Program 1: Unary Operator Overloading ✨
+    | Shows how to use an operator (like ++ or -) on a single class object instead of two.
+– Program 2: Greater Than Overloading ✨
+    | Shows how to use the > sign to compare two objects instead of just simple integers in class.
+
+💎Lecture 33:
+– Program 1: Assignment Operator ✨
+    | Shows how to use the = sign to copy data from one string object into another.
+– Program 2: Fraction Class ✨
+    | Uses the + sign to add two fractions by keeping the numerator and denominator separate for perfect accuracy.
+
+
+
+
+
 
  </pre>
 
