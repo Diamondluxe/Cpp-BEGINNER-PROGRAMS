@@ -261,9 +261,35 @@
 – Program 2: Fraction Class ✨
     | Uses the + sign to add two fractions by keeping the numerator and denominator separate for perfect accuracy.
 
+💎Lecture 34:
+– Program 1: Customized new and delete Operators ✨
+    | Overloads memory keywords to manually manage class-specific allocation and deallocation.
+– Program 2: Class-Level Memory Control ✨
+    | Overload new and delete inside your class to change how its objects are created and destroyed.
+– Program 3: Safe Array Access ✨
+    | Overload the [] operator to add range-checking and ensure your array never goes out of bounds.
 
+💎Lecture 35:
+– Program 1: Stream Priority Fix ✨
+    | Use parentheses to ensure your stream operators (<< or >>) don't clash with conditional logic.
+– Program 2: Full-Line Input ✨
+    | Use getline() to read a whole line of text, including spaces, from the input stream.
+– Program 3: Raw Memory Transfer ✨
+    | Use read() and write() to handle data in its purest form within a stream, bypassing text formatting.
 
+💎Lecture 36:
+– Program 1: Output Alignment ✨
+    | Use setf() to justify your text for a clean, professional look in the output stream
+– Program 2: Base Formatting ✨
+    | Use showbase with setf() to clearly distinguish between decimal, octal, and hexadecimal numbers.
 
+💎Lecture 37:
+– Program 1: Stream I/O Overloading ✨
+    | Overload the << and >> stream operators to input and output Date objects just like built-in variables.
+– Program 2: Standard Matrix I/O ✨
+    | A Matrix class that uses regular member functions instead of stream operators to display or input data.
+– Program 3: Custom Matrix I/O ✨
+    | Overload the << and >> stream operators to print and read Matrix objects as easily as basic integers
 
 
  </pre>
