@@ -1,4 +1,5 @@
-
+// A program that creates a Matrix class with dynamic memory, a copy constructor for 
+//deep copying, and a function to find the transpose of the matrix.
 
 #include<iostream>
 using namespace std;
