@@ -2,11 +2,9 @@
 using namespace std;
 
 int main() {
-    cout << "============================================" << endl;
-    cout << "      C++ BEGINNER PROGRAMS Lecture 1-21    " << endl;
-    cout << "        THE ULTIMATE CODING CHEAT SHEET     " << endl;
-    cout << "                BY DIAMOND LUXE             " << endl;
-    cout << "============================================" << endl << endl;
+    cout << "\n\n    WELCOME TO DIAMOND LUXE ^-^  " <<endl;
+    cout<<"  A pretty cheat sheat for you!  "<< endl;
+    
 
     // 1. Basics
     cout << "1. VARIABLES & DATA TYPES " << endl;
@@ -45,9 +43,8 @@ int main() {
     cout << "   - ofstream: Write | ifstream: Read" << endl;
     cout << "   - seekg/seekp: Move | tellg/tellp: Get position" << endl << endl;
 
-    cout << "====================================================" << endl;
-    cout << "   KEEP CODING, KEEP LEARNING, INSHAALLAH SUCCESS! " << endl;
-    cout << "====================================================" << endl;
+    cout << "\nOne more cheatsheet is in lecture 45..Enjoyy!!"<<endl;
+    cout << "\nGood luck with your study session!\n"<<endl;
 
     return 0;
 }
