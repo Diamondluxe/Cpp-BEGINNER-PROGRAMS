@@ -297,6 +297,31 @@
          <a href="https://github.com/Diamondluxe/Cpp-PROGRESSIVE-PROJECTS">"Cpp-PROGRESSIVE-PROJECTS"</a>
 
 
+💎Lecture 38:
+– Program 1:
+– Program 2:
+– Program 3:
+– Program 4:
+
+💎Lecture 39:
+– Program 1:
+
+💎Lecture 40:
+– Program 1:
+– Program 2:
+– Program 3:
+– Program 4:
+
+💎Lecture 41:
+– Program 1:
+– Program 2:
+– Program 3:
+– Program 4:
+
+💎Lecture 42:
+– Program 1:
+
+
  </pre>
 
 
