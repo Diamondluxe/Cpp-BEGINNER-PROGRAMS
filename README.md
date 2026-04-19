@@ -348,6 +348,9 @@ s
     | Easiest Cheat Sheet that covering the lectures from 23 to 45.
 
 
+🎀Project 6 is released, covering lecture 38-45.
+ -View Complete Projects Repository Click here 🌸
+         <a href="https://github.com/Diamondluxe/Cpp-PROGRESSIVE-PROJECTS">"Cpp-PROGRESSIVE-PROJECTS"</a>
 
  </pre>
 
